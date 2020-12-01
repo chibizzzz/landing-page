@@ -56,6 +56,9 @@ body{
     border: none;
     color: white;
 }
+.submit:hover{
+    background-color: #374d5b;
+}
 input[type=text-t]{
     width: 350px;
     height: 50px;
@@ -88,6 +91,10 @@ select[name=menu]{
     margin-top: 250px;
 
 }
+#head:hover{
+    background-color: #243842;
+}
+    
 #brand{
     background-color:  #e2574c;
     color: white;
