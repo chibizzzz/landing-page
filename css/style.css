@@ -105,6 +105,12 @@ select[name=menu]{
     color: white;
     border: none;
 }
+#brand:hover{
+    background-color: #752b25;
+}
+#brand-1:hover{
+    background-color: #1a2933;
+}   
 
 
 
